@@ -1,2 +1,2 @@
 # To-Do-List
-A small to do list web app
+A to list web app wirtten using CSS, HTML, and JavaScript
